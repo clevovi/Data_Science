@@ -12,9 +12,6 @@ After reviewing the dataset on the Udacity course there were additional question
 
 ## Data Understanding
 
-### Data used
-StackOverflow dataset
-
 ### Libarires Used
 1. pandas
 2. sklearn
@@ -60,3 +57,7 @@ Results
 Average salary did not vary across large gender groups.
 Jobsatisfaction varied accross country fo work but the mean across countries was reletivly high
 Company size does not seem to correlate with job satisfaction
+
+## Acknowledgements
+### Data used
+StackOverflow 2017 dataset - information on this dataset can be found at this website https://www.kaggle.com/datasets/stackoverflow/so-survey-2017
