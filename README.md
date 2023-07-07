@@ -9,7 +9,7 @@ data_science_project.ipynb is the jupyter notebook where all the analysis for al
 ### Questions 
 Q1: Does the average salary change based on gender?
 Q2: Which countries have the highest Job satisfaction?
-Q3: Does company size corralate to salary? 
+Q3: Does company size corralate to job satisfsction? 
 
 ### Libarires Used
 1. pandas
